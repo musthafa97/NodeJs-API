@@ -1,0 +1,8 @@
+{
+	"name" : "Express-API",
+	"dependencies" :{
+		"express" : "~4.12.3",
+		"mongoose" : "~3.8.25"
+	}
+
+}
